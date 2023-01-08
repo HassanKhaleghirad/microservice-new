@@ -1,0 +1,6 @@
+/home/hassan/IdeaProjects/microservice-new/inventory-service/src/main/java/com/microservice/inventoryservice/repository/InventoryRepository.java
+/home/hassan/IdeaProjects/microservice-new/inventory-service/src/main/java/com/microservice/inventoryservice/dto/InventoryResponse.java
+/home/hassan/IdeaProjects/microservice-new/inventory-service/src/main/java/com/microservice/inventoryservice/InventoryServiceApplication.java
+/home/hassan/IdeaProjects/microservice-new/inventory-service/src/main/java/com/microservice/inventoryservice/model/Inventory.java
+/home/hassan/IdeaProjects/microservice-new/inventory-service/src/main/java/com/microservice/inventoryservice/service/InventoryService.java
+/home/hassan/IdeaProjects/microservice-new/inventory-service/src/main/java/com/microservice/inventoryservice/controller/InventoryController.java

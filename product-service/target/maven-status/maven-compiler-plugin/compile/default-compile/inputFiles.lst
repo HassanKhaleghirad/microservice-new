@@ -1,0 +1,7 @@
+/home/hassan/IdeaProjects/microservice-new/product-service/src/main/java/com/microservice/productservice/model/Product.java
+/home/hassan/IdeaProjects/microservice-new/product-service/src/main/java/com/microservice/productservice/repository/ProductRepository.java
+/home/hassan/IdeaProjects/microservice-new/product-service/src/main/java/com/microservice/productservice/dto/ProductRequest.java
+/home/hassan/IdeaProjects/microservice-new/product-service/src/main/java/com/microservice/productservice/MicroserviceApplication.java
+/home/hassan/IdeaProjects/microservice-new/product-service/src/main/java/com/microservice/productservice/dto/ProductResponse.java
+/home/hassan/IdeaProjects/microservice-new/product-service/src/main/java/com/microservice/productservice/service/ProductService.java
+/home/hassan/IdeaProjects/microservice-new/product-service/src/main/java/com/microservice/productservice/controller/ProductController.java
