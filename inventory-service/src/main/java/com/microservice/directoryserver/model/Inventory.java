@@ -1,4 +1,4 @@
-package com.microservice.inventoryservice.model;
+package com.microservice.directoryserver.model;
 
 
 import jakarta.persistence.*;

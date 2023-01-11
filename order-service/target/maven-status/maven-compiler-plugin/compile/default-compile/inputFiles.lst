@@ -1,8 +1,10 @@
 /home/hassan/IdeaProjects/microservice-new/order-service/src/main/java/com/orderservice/repository/OrderRepository.java
 /home/hassan/IdeaProjects/microservice-new/order-service/src/main/java/com/orderservice/dto/OrderRequest.java
 /home/hassan/IdeaProjects/microservice-new/order-service/src/main/java/com/orderservice/controller/OrderController.java
+/home/hassan/IdeaProjects/microservice-new/order-service/src/main/java/com/orderservice/config/WebClientConfig.java
 /home/hassan/IdeaProjects/microservice-new/order-service/src/main/java/com/orderservice/dto/OrderLineItemsDto.java
 /home/hassan/IdeaProjects/microservice-new/order-service/src/main/java/com/orderservice/service/OrderService.java
 /home/hassan/IdeaProjects/microservice-new/order-service/src/main/java/com/orderservice/model/Order.java
 /home/hassan/IdeaProjects/microservice-new/order-service/src/main/java/com/orderservice/OrderServiceApplication.java
 /home/hassan/IdeaProjects/microservice-new/order-service/src/main/java/com/orderservice/model/OrderLineItems.java
+/home/hassan/IdeaProjects/microservice-new/order-service/src/main/java/com/orderservice/dto/InventoryResponse.java

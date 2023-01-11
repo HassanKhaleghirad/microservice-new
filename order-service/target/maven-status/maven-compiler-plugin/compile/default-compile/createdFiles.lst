@@ -1,8 +1,11 @@
+com/orderservice/config/WebClientConfig.class
 com/orderservice/dto/OrderRequest.class
 com/orderservice/controller/OrderController.class
 com/orderservice/service/OrderService.class
 com/orderservice/OrderServiceApplication.class
 com/orderservice/model/OrderLineItems.class
+com/orderservice/dto/InventoryResponse$InventoryResponseBuilder.class
+com/orderservice/dto/InventoryResponse.class
 com/orderservice/model/Order.class
 com/orderservice/repository/OrderRepository.class
 com/orderservice/dto/OrderLineItemsDto.class

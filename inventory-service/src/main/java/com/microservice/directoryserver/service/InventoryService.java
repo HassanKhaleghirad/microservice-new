@@ -1,7 +1,7 @@
-package com.microservice.inventoryservice.service;
+package com.microservice.directoryserver.service;
 
-import com.microservice.inventoryservice.dto.InventoryResponse;
-import com.microservice.inventoryservice.repository.InventoryRepository;
+import com.microservice.directoryserver.dto.InventoryResponse;
+import com.microservice.directoryserver.repository.InventoryRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

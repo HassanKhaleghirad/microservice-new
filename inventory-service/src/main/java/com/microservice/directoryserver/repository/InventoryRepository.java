@@ -1,7 +1,7 @@
-package com.microservice.inventoryservice.repository;
+package com.microservice.directoryserver.repository;
 
 
-import com.microservice.inventoryservice.model.Inventory;
+import com.microservice.directoryserver.model.Inventory;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
